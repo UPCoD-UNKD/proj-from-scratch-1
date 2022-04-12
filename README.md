@@ -13,6 +13,11 @@ Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 ## Authors
 * Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
 
+| **Dmytro Popadiuk**      |
+| ----------- |
+| <img src="https://s.dou.ua/img/avatars/200x200_foto1_Eh9S2tO.jpg" width="110" height="110">     |
+| [![Dmytro Popadiuk linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriypopadiuk/)   |
+
 ## Acknowledgments
 ...
 
