@@ -1,0 +1,4 @@
+raw - designed for draft files, ideas, suggestions, prototypes and more
+
+code - intended for files associated with code
+
