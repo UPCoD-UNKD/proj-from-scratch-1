@@ -13,6 +13,8 @@ Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 ## Authors
 * Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
 
+Dmitriy Revenets - https://www.linkedin.com/in/dmitry-revenets-575a4122b/
+
 ## Acknowledgments
 ...
 
